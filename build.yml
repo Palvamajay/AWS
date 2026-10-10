@@ -11,6 +11,5 @@ phases:
       - echo "Preparing static website files"
 
 artifacts:
-  base-directory: "src/main/webapp"
   files:
     - "**/*"
